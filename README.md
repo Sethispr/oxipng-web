@@ -1,4 +1,4 @@
-<p align="center">PNG optimizer website using <b>oxipng</b> via <b>jSquash WebAssembly</b></p><p align="center"><img src="https://files.catbox.moe/wwsdfa.png" alt="Blairpng web preview" width="600">
+<p align="center">PNG optimizer website using <b>oxipng</b> via <b>jSquash WebAssembly</b></p><p align="center"><img src="https://files.catbox.moe/3rpn2x.png" alt="Blairpng web preview" width="600">
 </p>
 
 ## [Blairpng](https://blairpng.pages.dev/) (live demo)
