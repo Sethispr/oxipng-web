@@ -12,18 +12,18 @@
     "clean": "gts clean"
   },
   "dependencies": {
-    "react": "18.3.1",
-    "react-dom": "18.3.1",
-    "lucide-react": "0.344.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "lucide-react": "0.562.0",
     "clsx": "2.1.1",
-    "uuid": "9.0.1",
+    "uuid": "13.0.0",
     "jszip": "3.10.1"
   },
   "devDependencies": {
-    "@types/node": "^22.14.0",
-    "@vitejs/plugin-react": "^5.0.0",
+    "@types/node": "^25.0.9",
+    "@vitejs/plugin-react": "^5.1.2",
     "gts": "^6.0.0",
-    "typescript": "~5.8.2",
-    "vite": "^6.2.0"
+    "typescript": "~5.9.3",
+    "vite": "^7.3.1"
   }
 }
