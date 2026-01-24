@@ -1,11 +1,11 @@
-<p align="center">[IN DEVELOPMENT]<br />PNG optimizer website using <b>oxipng</b> via <b>jSquash WebAssembly</b></p><p align="center"><img src="https://files.catbox.moe/3rpn2x.png" alt="Blairpng web preview" width="600">
+<p align="center">[IN DEVELOPMENT]<br />Image optimizer website using jSquash WebAssembly similar to squoosh</b></p><p align="center"><img src="https://files.catbox.moe/3rpn2x.png" alt="Blairpng web preview" width="600">
 </p>
 
-## [Blairpng](https://blairpng.pages.dev/) (live demo)
+## [Blairimage](https://blairimage.pages.dev/) (live demo, NOT YET)
 
-This website uses an **[oxipng](https://github.com/oxipng/oxipng)** WebAssembly binary via **[jSquash](https://www.npmjs.com/package/@jsquash/oxipng)** for lossless compression with **batch file upload support** all while maintaining **complete data privacy** without needing to use Rust tools or **[Squoosh.app](https://squoosh.app/)** which does not support batch uploading and has memory limitations making you unable to use the maximum compression level on low end devices.
+This website uses an **[oxipng](https://github.com/oxipng/oxipng)** WebAssembly binary via **[jSquash](https://www.npmjs.com/package/@jsquash/oxipng)** for lossless compression with **batch file upload support** all while maintaining **complete data privacy** without needing to use cli tools or **[Squoosh.app](https://squoosh.app/)** which does not support batch uploading and has memory limitations making you unable to use the maximum compression level on low end devices (similar problem to all of their batch support forks...)
 
-## Features
+## Features (outdated, this site will now support more options)
 
 * Oxipng level 1-6 lossless compression
 * Supports batch file uploading
