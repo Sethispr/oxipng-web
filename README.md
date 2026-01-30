@@ -2,6 +2,11 @@
 
 <p align="center">
 <img src="https://wsrv.nl/?url=raw.githubusercontent.com/Sethispr/image-compressor/main/assets/IMG_7503.jpeg" alt="image compressor web preview" height="500">
+  
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=for-the-badge)](https://vitejs.dev/)
+[![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge)](https://react.dev/)
+[![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff&style=for-the-badge)](https://webassembly.org/)
+[![jSquash](https://img.shields.io/badge/jSquash-ff69b4?logo=googlechrome&logoColor=fff&style=for-the-badge)](https://github.com/GoogleChromeLabs/jsquash)
 
 <https://img-compress.pages.dev>
 </p>
