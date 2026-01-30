@@ -23,7 +23,7 @@ let picaInstance = null;
 // --- Safety Limits ---
 // We set hard limits to prevent the browser from crashing.
 // Updated to 2gb limit per file.
-const MAX_FILE_SIZE = 2 * 1024 * 1024 * 1024; // 30MB
+const MAX_FILE_SIZE = 2 * 1024 * 1024 * 1024; // 2GB
 const MAX_DIMENSION = 16384; // 16k resolution
 
 /**
