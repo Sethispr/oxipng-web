@@ -108,3 +108,13 @@ The app will now be at `http://localhost:8080`.
 * **Updates:** To update your self hosted instance, pull the latest code from the repository and rebuild the image using the build command above.
 
 If you find any issues during the setup process, please feel free to open an issue in the repository.
+
+---
+<p align="center">
+  <b>Support this project</b><br />
+  If you find this tool useful, please consider giving it a star!
+  <br /><br />
+  <a href="https://github.com/Sethispr/image-compressor">
+    <img src="https://img.shields.io/github/stars/Sethispr/image-compressor?style=for-the-badge&color=gold&logo=github" alt="yield stars"/>
+  </a>
+</p>
