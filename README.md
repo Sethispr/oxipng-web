@@ -10,7 +10,7 @@
 
 <https://img-compress.pages.dev>
 </p>
-Bulk Image Compressor using WebAssembly (WASM). No ads, no trackers, no cookies, no signups.
+Batch Image Compressor using WebAssembly (WASM). No ads, no trackers, no cookies, no signups.
 
 ---
 
